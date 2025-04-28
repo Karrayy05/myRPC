@@ -1,0 +1,7 @@
+Package: libmysyslog
+Version: 1.0
+Section: libs
+Priority: optional
+Architecture: amd64
+Maintainer: Karay <Alecorna05@icloud.com>
+Description: Библиотека mysyslog для логирования в текстовом и JSON формате

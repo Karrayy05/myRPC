@@ -1,0 +1,8 @@
+Package: libmysyslog-json
+Version: 1.0
+Section: libs
+Priority: optional
+Architecture: amd64
+Depends: libmysyslog (>= 1.0), libjson-c5
+Maintainer: Karay <Alecorna05@icloud.com>
+Description: Расширение mysyslog для логирования в JSON формате

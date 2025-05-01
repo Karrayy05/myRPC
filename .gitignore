@@ -1,7 +1,7 @@
 # Си-объектники и двоичные файлы
 *.o
-myRPC-server
-myRPC-client
+/myRPC-server
+/myRPC-client
 
 # Пакеты и промежуточные директории
 *.deb

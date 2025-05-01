@@ -1,8 +1,0 @@
-Package: myrpc-client
-Version: 1.0
-Section: net
-Priority: optional
-Architecture: amd64
-Depends: libc6 (>= 2.27), libmysyslog-json (>= 1.0), libmysyslog (>= 1.0), libjson-c5
-Maintainer: Karay <Alecorna05@icloud.com>
-Description: myRPC client — консольная утилита для JSON-RPC вызова команд
